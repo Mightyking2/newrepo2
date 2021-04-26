@@ -1,6 +1,7 @@
 this is a test file too
 testing phase
 <<<<<<< HEAD
+body 12345
 xzcxzcxzcxzcxzcxzcz 
 dsadslnfuksx jkslbfhdbvfjawkbdbsn,c changes made
 =======
